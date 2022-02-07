@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "hitsmodule")(type "KiCad")(uri "C:/Users/Honoka/Documents/KiCad/hitsmodule")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
